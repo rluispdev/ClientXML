@@ -3,7 +3,7 @@
       <nome>Alexandre</nome>
       <dataNascimento>2012-12-01</dataNascimento>
    </cliente>
-   <cliente id="2">
+   <cliente id="4">
       <nome>Paulo</nome>
       <dataNascimento>2012-11-01</dataNascimento>
    </cliente>
